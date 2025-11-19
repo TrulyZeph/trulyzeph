@@ -19,5 +19,5 @@ Email: trulyzeph@gmail.com
 
 ## Websites
 - [Zephware](https://zephware.netlify.app)
-- [Portfolio](trulyzeph.netlify.app)<br>
+- [Portfolio](https://trulyzeph.netlify.app)<br>
 (hosted on netlify cause im poor asf)
